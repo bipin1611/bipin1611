@@ -1,6 +1,6 @@
 Hi there 👋, I’m Bipin Parmar
 
-I have an immense passion for coding. Although I hold a background in Aeronautical Engineering, but I was inspired myself towards IT Industry. I have learnt these stuffs by myself only, and still learning. I have worked with many of Technologies like PHP, Laravel, SQL, ReactJs, AngularJs, Vue.js and having spent about 4 years. Moreover, I've extended my technical knowledge across diverse domains such as E-commerce, education, logistics, social apps, finance, and more. I'm Living in small village of Ahmedabad named `Galsana`, Gujarat. 
+I have an immense passion for coding. Although I hold a background in Aeronautical Engineering, but I was inspired myself towards IT Industry. I have learnt these stuffs by myself only, and still learning. I have worked with many of Technologies like PHP, Laravel, SQL, ReactJs, AngularJs, Vue.js and having spent about 4 years. Moreover, I've extended my technical knowledge across diverse domains such as E-commerce, education, logistics, social apps, finance, and more.
 
 
 <!---
