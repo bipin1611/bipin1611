@@ -2,41 +2,12 @@ Hi there 👋, I’m Bipin Parmar
 
 ## About Me
 
-I'm an Aeronautical Engineering graduate turned passionate software developer with over 4 years of experience in the IT industry. My journey into the world of coding began with a fascination for solving complex problems and creating impactful software solutions. Self-taught and constantly learning, I've honed my skills in various technologies and contributed to diverse domains such as e-commerce, education, logistics, social apps, and finance.
-
-## Technical Skills
-
-### Frontend
-- React.js
-- Next.js
-- Angular
-- Vue.js
-- jQuery
-
-### Backend
-- PHP
-- Laravel
-- Cakephp
-- Node.js
-
-### Databases
-- SQL
-- MySQL
-- PostgreSQL
-
-### Others
-- AWS
-- Docker
-- Git
-- RESTful APIs 
+I'm an Aeronautical Engineering graduate turned passionate software developer with over 4 years of experience in the IT industry. My journey into the world of coding began with a fascination for solving complex problems and creating impactful software solutions. Self-taught and constantly learning, I've honed my skills in various technologies and contributed to diverse domains such as e-commerce, education, logistics, social apps, and finance. I'm committed to continuous learning and staying updated with the latest industry trends. Currently exploring Blockchain and Rust.
 
 
-## Continuous Learning
-
-I'm committed to continuous learning and staying updated with the latest industry trends. Currently exploring Blockchain and Rust.
-
-## Let's Connect
-
+#### Technical Skills
+PHP, Node.js, Laravel, SQL, MySQL, PostgreSQL, React.js, Next.js, Angular, Vue.js, jQuery, Cakephp, AWS, Docker, RESTful APIs, Git 
+### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/bipin-parmar-ba2460134)
 - [Email](mailto:parmarbipin96013@gmail.com)
 
