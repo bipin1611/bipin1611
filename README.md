@@ -6,7 +6,7 @@ I'm an Aeronautical Engineering graduate turned passionate software developer wi
 
 
 #### Technical Skills
-PHP, Node.js, Laravel, SQL, MySQL, PostgreSQL, React.js, Next.js, Angular, Vue.js, jQuery, Cakephp, AWS, Docker, RESTful APIs, Git 
+PHP, Node.js, Laravel, React.js, Next.js, Angular, Vue.js, SQL, MySQL, PostgreSQL, jQuery, Cakephp, AWS, Docker, RESTful APIs, Git 
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/bipin-parmar-ba2460134)
 - [Email](mailto:parmarbipin96013@gmail.com)
