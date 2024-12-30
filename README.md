@@ -2,8 +2,7 @@ Hi there 👋, I’m Bipin Parmar
 
 ## About Me
 
-I'm an Aeronautical Engineering graduate turned passionate software developer with over 4 years of experience in the IT industry. My journey into the world of coding began with a fascination for solving complex problems and creating impactful software solutions. Self-taught and constantly learning, I've honed my skills in various technologies and contributed to diverse domains such as e-commerce, education, logistics, social apps, and finance. I'm committed to continuous learning and staying updated with the latest industry trends. Currently exploring Blockchain and Rust.
-
+I am a passionate software developer with over 4 years of experience in the IT industry. My journey into the world of coding began with a fascination for solving complex problems and creating impactful software solutions. Self-taught and constantly learning, I've honed my skills in various technologies and contributed to diverse domains such as e-commerce, education, logistics, social apps, and finance. I'm committed to continuous learning and staying updated with the latest industry trends. Currently, I am exploring Blockchain and Rust.
 
 #### Technical Skills
 PHP, Node.js, Laravel, React.js, Next.js, Angular, Vue.js, SQL, MySQL, PostgreSQL, jQuery, Cakephp, AWS, Docker, RESTful APIs, Git 
