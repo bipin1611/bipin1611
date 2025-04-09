@@ -18,7 +18,6 @@ Let's connect, collaborate, and build something awesome together 🚀
 - `2025-03-31` | [🔗 More Than Just Knowing a Language, It’s About Problem-Solving](https://bipin.blog/post/more-than-just-knowing-a-language-its-about-problem-solving)
 - `2025-03-29` | [🔗 Implementing PHPStan, PHP CS Fixer, and PHP_CodeSniffer in Your PHP Project](https://bipin.blog/post/implementing-phpstan-php-cs-fixer-and-php-codesniffer-in-your-php-project)
 - `2025-03-28` | [🔗 Why does Laravel use collection objects instead of a normal PHP array?](https://bipin.blog/post/why-does-laravel-use-collection-objects-instead-of-a-normal-php-array)
-- `2025-03-26` | [🔗 EXPLAIN: Query lifecycle](https://bipin.blog/post/explain-query-lifecycle)   
 
 ### 🛠️ Languages & Tools
 <p align="left">
