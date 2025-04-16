@@ -12,12 +12,12 @@ I'm a **Full-Stack Web Developer** and a **lifelong learner**, currently based i
 Let's connect, collaborate, and build something awesome together 🚀
 
 ### 📝 Latest Blog Posts 
+- `2025-04-16` | [🔗 Problem Day 1: How to Build a Scalable Chat Application with Real-Time Message Exchange and Notifications](https://bipin.blog/post/problem-day-1-how-to-build-a-scalable-chat-application-with-real-time-message-exchange-and-notifications)
 - `2025-04-13` | [🔗 Avoid Deep Nesting with Guard Clauses](https://bipin.blog/post/avoid-deep-nesting-with-guard-clauses)
 - `2025-04-12` | [🔗 Avoiding Unintended Data Mutation: Best Practices](https://bipin.blog/post/avoiding-unintended-data-mutation-best-practices)
 - `2025-04-09` | [🔗 Infinite Scroll with VueUse](https://bipin.blog/post/infinite-scroll-with-vueuse)
 - `2025-04-06` | [🔗 Computed Properties in Vue.js](https://bipin.blog/post/computed-properties-in-vuejs)
 - `2025-04-01` | [🔗 Using withoutOverlapping in Laravel Commands](https://bipin.blog/post/using-withoutoverlapping-in-laravel-commands)
-- `2025-03-31` | [🔗 More Than Just Knowing a Language, It’s About Problem-Solving](https://bipin.blog/post/more-than-just-knowing-a-language-its-about-problem-solving)
 
 ### 🛠️ Languages & Tools
 <p align="left">
