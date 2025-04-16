@@ -12,7 +12,7 @@ I'm a **Full-Stack Web Developer** and a **lifelong learner**, currently based i
 Let's connect, collaborate, and build something awesome together 🚀
 
 ### 📝 Latest Blog Posts 
-- `2025-04-16` | [🔗 Problem Day 1: How to Build a Scalable Chat Application with Real-Time Message Exchange and Notifications](https://bipin.blog/post/problem-day-1-how-to-build-a-scalable-chat-application-with-real-time-message-exchange-and-notifications)
+- `2025-04-16` | [🔗 Problem Day 1: Build a Scalable Chat Application with Real-Time Message Exchange and Notifications](https://bipin.blog/post/problem-day-1-build-a-scalable-chat-application-with-real-time-message-exchange-and-notifications)
 - `2025-04-13` | [🔗 Avoid Deep Nesting with Guard Clauses](https://bipin.blog/post/avoid-deep-nesting-with-guard-clauses)
 - `2025-04-12` | [🔗 Avoiding Unintended Data Mutation: Best Practices](https://bipin.blog/post/avoiding-unintended-data-mutation-best-practices)
 - `2025-04-09` | [🔗 Infinite Scroll with VueUse](https://bipin.blog/post/infinite-scroll-with-vueuse)
