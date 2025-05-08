@@ -17,7 +17,6 @@ Let's connect, collaborate, and build something awesome together 🚀
 - `2025-04-13` | [🔗 Avoid Deep Nesting with Guard Clauses](https://bipin.blog/post/avoid-deep-nesting-with-guard-clauses)
 - `2025-04-12` | [🔗 Avoiding Unintended Data Mutation: Best Practices](https://bipin.blog/post/avoiding-unintended-data-mutation-best-practices)
 - `2025-04-09` | [🔗 Infinite Scroll with VueUse](https://bipin.blog/post/infinite-scroll-with-vueuse)
-- `2025-04-06` | [🔗 Computed Properties in Vue.js](https://bipin.blog/post/computed-properties-in-vuejs)
 
 ### 🛠️ Languages & Tools
 <p align="left">
