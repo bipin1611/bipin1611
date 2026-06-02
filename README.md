@@ -2,8 +2,7 @@
 
 I'm a **Full-Stack Web Developer** and a **lifelong learner**, currently based in **Berlin, Germany** 🇩🇪.
 
-- 👨🏻‍💻 **Currently working with:** PHP, Laravel, Vue.js  
-- 🌱 **Exploring:** AI concepts and emerging technologies
+- 👨🏻‍💻 **Currently working with:** Agentic AI, Python. Voice AI  
 - 🗣️ **Languages:** Deutsch, English, Hindi and [Gujarati](https://de.wikipedia.org/wiki/Gujarati)
 - 💬 **Ask me anything:** I'm always happy to share knowledge and help others  
 - 📝 **Read my blog:** [bipin.blog](https://bipin.blog/)  
